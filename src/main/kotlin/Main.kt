@@ -9,4 +9,8 @@ class Employee (var fgs : String) {
     this.se = se
     }
 
+    fun test(){
+
+    }
+
 }
